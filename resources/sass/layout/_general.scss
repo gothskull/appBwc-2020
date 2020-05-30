@@ -1,0 +1,14 @@
+//Body
+body
+{
+	color: $text-body;
+}
+//Iconos
+.fa-2x
+{
+    font-size: 1.8em!important;
+    &:hover
+    {
+        color: $red;
+    }
+}
